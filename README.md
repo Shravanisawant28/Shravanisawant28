@@ -1,16 +1,34 @@
-## Hi there 👋
+Hi 👋, I'm Shravani Sawant
+A passionate Web Developer and Data Analyst from India
+shravanisawant28
+shravanisawant28
 
-<!--
-**Shravanisawant28/Shravanisawant28** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🔭 I’m currently working on Handdrawn flowchart detection
+🌱 I’m currently learning Microsoft Power Bi, Database
+💬 Ask me about React.js, Node.js, Python, ML ,Sql
+📫 How to reach me shravanisawan1828@gmail.com
+Connect with me:
+username
+Languages and Tools:
+canvasjs
+css3
+docker
+express
+figma
+firebase
+flask
+git
+html5
+java
+javascript
+mongodb
+mysql
+nodejs
+opencv
+postman
+python
+react
+scikit_learn
+tensorflow
+shravanisawant28
+shravanisawant28
